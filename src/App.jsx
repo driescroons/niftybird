@@ -159,7 +159,7 @@ export default function App() {
       >
         <img
           src={logo}
-          className="object-contain w-4 h-4 hover:animate-wiggle"
+          className="object-contain w-4 h-4 hover:animate-wiggle select-none"
           alt="Dries' Logo"
         />
       </a>

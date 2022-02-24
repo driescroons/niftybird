@@ -1,6 +1,3 @@
-- link meta mask?
-- link rainbow extension?
-- on touch also
-- put img on box.
-- show colors int he popup
-- click or use space
+# Niftybirds
+
+Flappy bird with r3f
