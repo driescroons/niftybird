@@ -116,7 +116,15 @@ export default function App() {
                         >
                           portfolio
                         </a>
-                        !
+                        , or the{" "}
+                        <a
+                          href="https://github.com/driescroons/niftybird"
+                          target="_blank"
+                          className="text-blue-500 hover:text-blue-700 font-semibold"
+                        >
+                          source
+                        </a>
+                        .
                       </p>
                     </div>
                   </div>
