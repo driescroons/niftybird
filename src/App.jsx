@@ -66,8 +66,7 @@ export default function App() {
                     </h3>
                     <div className="mt-2">
                       <p>
-                        Select your favorite jpeg. Preferably an NFT you bought
-                        on Rainbow 🌈. Press play and click to hop.
+                        Select your favorite jpeg. Press play and click to hop.
                       </p>
                       <input id="hidden-input" type="file" className="hidden" />
                       <div className="flex items-center gap-4">
